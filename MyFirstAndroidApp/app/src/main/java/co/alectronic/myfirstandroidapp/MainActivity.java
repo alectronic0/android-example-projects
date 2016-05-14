@@ -7,6 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 public class MainActivity extends ActionBarActivity {
@@ -15,11 +16,25 @@ public class MainActivity extends ActionBarActivity {
     public void clickFuntion(View view){
 
         EditText name = (EditText) findViewById(R.id.txtName);
+        ImageView img = (ImageView) findViewById(R.id.imageView);
+
+
         String strName = name.getText().toString();
         Log.i("Info","Button Tapped!: " + view.toString());
         Log.i("Info",strName);
 
         Toast.makeText(getApplicationContext(),"Hello World cheese", Toast.LENGTH_SHORT).show();
+
+
+        Log.i("Info",img.getDrawable().toString());
+        Log.i("Info",getResources().getDrawable(R.drawable.tattoo).toString());
+        if(img.getDrawable().equals(getResources().getDrawable(R.drawable.tattoo))) {
+            img.setImageResource(R.drawable.link);
+        }else{
+            img.setImageResource(R.drawable.tattoo);
+        }
+
+
     }
 
     @Override
