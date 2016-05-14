@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_aba0f3adad4bfba88e24e9309c47a6af37f15e4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_93c3389e76a3b32bf90bb08cc64d6afab085c263\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_7cd194c6f3f4f301c835750b93d55cdb37d12acf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0ce5e74df4926117613aab0fb2ce87367a46c2a4">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_98d6c7b73f1f4b00f1995e1b934b85a0ac65bbb5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_90d33ce501a08f6dbf3f1ca9938efc75a5d71419\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ea72e69a402fd20b3528029acfb167d46000f835\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_63e78914644c8852e94b6f5b07dd9d6b19d7466e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_33ad893e456913f1d594c916f45cc8b6a341088c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_0450e7c590c6d67a4e50ee5ecdf9071839067c79\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ade440b8daac93c0487aee51b73e64ebe1b6ce5a">
+        <dex dex="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\MyFirstAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_63718b62e47636f4409e40583afa83e891d25010\classes.dex" />
+    </item>
+
+</items>
