@@ -6,12 +6,20 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.Toast;
 
 public class MainActivity extends ActionBarActivity {
 
 
     public void clickFuntion(View view){
+
+        EditText name = (EditText) findViewById(R.id.txtName);
+        String strName = name.getText().toString();
         Log.i("Info","Button Tapped!: " + view.toString());
+        Log.i("Info",strName);
+
+        Toast.makeText(getApplicationContext(),"Hello World cheese", Toast.LENGTH_SHORT).show();
     }
 
     @Override
