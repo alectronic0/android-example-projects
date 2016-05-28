@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Alec Doran-Twyford\\Documents\\AndroidStudioProjects\\MyFirstAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
         "source": "C:\\Users\\Alec Doran-Twyford\\Documents\\AndroidStudioProjects\\MyFirstAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\MyFirstAndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\MyFirstAndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]
