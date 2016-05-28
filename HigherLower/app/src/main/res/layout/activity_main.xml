@@ -60,4 +60,13 @@
         android:layout_alignEnd="@+id/rateBarLives"
         android:onClick="btnClick" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESET"
+        android:id="@+id/btnReset"
+        android:layout_below="@+id/btnLower"
+        android:layout_centerHorizontal="true"
+        android:onClick="btnClick" />
+
 </RelativeLayout>
