@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
+    format="7"
+    timestamp="22232096835497" >
+
+    <task
+        name="javac"
+        duration="167" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="42" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+
+    <build timestamp="21668666292794" >
+        <artifact
+            location="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\CurrencyConverter\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="21851286057386" >
+        <artifact
+            location="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\CurrencyConverter\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="22232096835497" >
+        <artifact
+            location="C:\Users\Alec Doran-Twyford\Documents\AndroidStudioProjects\CurrencyConverter\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="co.alectronic.higherlower.MainActivity">
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rateBarLives"
+        android:layout_marginTop="21dp"
+        android:numStars="5"
+        android:rating="5"
+        android:stepSize="1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="THIS IS WHERE ANSWER GO"
+        android:id="@+id/txtResult"
+        android:layout_marginTop="22dp"
+        android:layout_below="@+id/rateBarLives"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="THIS EXPLAINS THE APP"
+        android:id="@+id/txtInfo"
+        android:layout_marginTop="27dp"
+        android:layout_below="@+id/txtResult"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lower"
+        android:id="@+id/btnLower"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/rateBarLives"
+        android:layout_alignStart="@+id/rateBarLives"
+        android:onClick="btnClick" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HIGHER"
+        android:id="@+id/btnHigher"
+        android:layout_alignTop="@+id/btnLower"
+        android:layout_alignRight="@+id/rateBarLives"
+        android:layout_alignEnd="@+id/rateBarLives"
+        android:onClick="btnClick" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESET"
+        android:id="@+id/btnReset"
+        android:layout_below="@+id/btnLower"
+        android:layout_centerHorizontal="true"
+        android:onClick="btnClick" />
+
+</RelativeLayout>
