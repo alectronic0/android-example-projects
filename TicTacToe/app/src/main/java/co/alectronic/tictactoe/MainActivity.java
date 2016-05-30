@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void dropIn(View v){
-
+        boolean b = false;
         ImageView imgView = (ImageView) v;
         int slot = Integer.parseInt(imgView.getTag().toString());
 
@@ -43,16 +43,23 @@ public class MainActivity extends AppCompatActivity {
 
                 for(int[] winningPos: winningStates){
                     if(gamestate[winningPos[0]] == gamestate[winningPos[1]] &&
-                       gamestate[winningPos[1]] == gamestate[winningPos[2]] &&
-                       gamestate[winningPos[0]] != 2)
-                    {   notWon = false;
-                        findViewById(R.id.btnReset).setEnabled(true);
-                        findViewById(R.id.btnReset).setVisibility(View.VISIBLE);}
-
+                            gamestate[winningPos[1]] == gamestate[winningPos[2]] &&
+                            gamestate[winningPos[0]] != 2)
+                    {gameOver();}
                 }
+
+                for(int gameSlot: gamestate){if(gameSlot == 2){b = true;}}
+
+                if(!b){gameOver();}
 
             }
         }
+    }
+
+    public void gameOver(){
+        notWon = false;
+        findViewById(R.id.btnReset).setEnabled(true);
+        findViewById(R.id.btnReset).setVisibility(View.VISIBLE);
     }
 
     public void reset(View v){
