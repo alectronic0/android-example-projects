@@ -65,8 +65,7 @@
         android:layout_below="@+id/gridLayout"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="47dp"
-        android:textSize="30dp"
-        android:onClick="nextQuestion" />
+        android:textSize="30dp" />
 
     <GridLayout
         android:layout_width="match_parent"
@@ -90,7 +89,7 @@
             android:layout_gravity="fill"
             android:tag="btn1"
             android:onClick="btnClick"
-            android:background="#bfd9e440" />
+            android:background="#d9e440" />
 
         <Button
             android:layout_width="wrap_content"
@@ -134,5 +133,14 @@
             android:onClick="btnClick"
             android:background="#75ea83" />
     </GridLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Restart"
+        android:id="@+id/btnRestart"
+        android:layout_below="@+id/btnStart"
+        android:layout_centerHorizontal="true"
+        android:onClick="btnClick" />
 
 </RelativeLayout>
