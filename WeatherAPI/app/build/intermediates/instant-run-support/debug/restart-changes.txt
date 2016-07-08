@@ -1,0 +1,2 @@
+CHANGED,C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\co\alectronic\weatherapi\MainActivity$TaskDLWebSite.class
+CHANGED,C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\co\alectronic\weatherapi\MainActivity.class

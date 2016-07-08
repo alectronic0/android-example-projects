@@ -1,0 +1,3 @@
+CHANGED,C:\Users\ado47\Desktop\alectronic0\DLImage\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\co\alectronic\dlimage\MainActivity.class
+CHANGED,C:\Users\ado47\Desktop\alectronic0\DLImage\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\co\alectronic\dlimage\MainActivity$2.class
+CHANGED,C:\Users\ado47\Desktop\alectronic0\DLImage\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\co\alectronic\dlimage\MainActivity$1.class

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="29165108678200"
+    token="9077831353283549862"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="827" />
+    <task
+        name="instant-run-dex"
+        duration="830" />
+    <task
+        name="instant-run-transform"
+        duration="41" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="27519147942133" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="27719714638564" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="28334809642127"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28334809642127\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28486100629334"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28486100629334\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28577045034733"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28577045034733\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28738684025030"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28738684025030\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28811572950511"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28811572950511\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28834048873752"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28834048873752\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28891114311111"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28891114311111\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="28965131802009"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\builds\debug\28965131802009\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="29165108678200"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\WeatherAPI\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

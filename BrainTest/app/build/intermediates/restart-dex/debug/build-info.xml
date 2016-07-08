@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="29025005310748"
+    token="5970031861430880402"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="3708" />
+    <task
+        name="instant-run-dex"
+        duration="3995" />
+    <task
+        name="instant-run-transform"
+        duration="2756" />
+    <task
+        name="verifier"
+        duration="239" />
+
+    <artifact
+        location="C:\Users\ado47\Desktop\alectronic0\BrainTest\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="28880120383216" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\BrainTest\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="29025005310748"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\ado47\Desktop\alectronic0\BrainTest\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
