@@ -1,8 +1,12 @@
-# android-projects
+# android-example-projects
+[![Build Status](https://travis-ci.org/alectronic0/android-projects.svg?branch=master)](https://travis-ci.org/alectronic0/android-projects)
+
 This Is a Collections of Android App built using the Udemy Course "The Complete Android Developer Course - Build 14 Apps"
 
 https://www.udemy.com/the-complete-android-developer-course/learn/v4/overview
 
--My First App (Hello World of Android Apps)
-
-More Coming Soon...
+## QuickStart
+```bash
+git clone https://github.com/alectronic0/android-example-projects.git
+cd android-example-projects
+```
